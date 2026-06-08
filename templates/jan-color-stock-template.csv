@@ -1,0 +1,2 @@
+product_name,brand,category,color_name,jan,selling_price,stock,msrp,image_file,image_source_url,image_usage_status,seo_keywords,seo_description,notes
+Fictional Product Name,Fictional Brand,Category Name,Color Name,SAMPLE-JAN-0000,1000,10,1200,image-file.jpg,https://example.invalid/image.jpg,confirmed,"keyword1, keyword2","Short SEO description for the product.",Fictional sample row for template use.

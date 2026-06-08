@@ -1,0 +1,3 @@
+product_name,brand,category,color_name,jan,selling_price,stock,msrp,image_file,image_source_url,image_usage_status,seo_keywords,seo_description,notes
+架空リールノブ S,架空リール工房,リールパーツ,ブラック,SAMPLE-JAN-0003,980,12,1100,kakuu-reel-knob-s-black.jpg,https://example.invalid/images/kakuu-reel-knob-s-black.jpg,confirmed,"リールノブ, リールパーツ, ブラック","架空リールノブ Sは、交換用パーツの登録例として用意した架空商品です。",すべて架空データです。
+架空リールノブ S,架空リール工房,リールパーツ,シルバー,SAMPLE-JAN-0004,980,9,1100,kakuu-reel-knob-s-silver.jpg,https://example.invalid/images/kakuu-reel-knob-s-silver.jpg,confirmed,"リールノブ, リールパーツ, シルバー","架空リールノブ Sのシルバー例です。カラー違いの在庫管理を示す架空サンプルです。",すべて架空データです。
