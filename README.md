@@ -23,6 +23,7 @@ This is a small but practical open-source project based on real operational need
 - Fictional sample CSV files
 - Safe publication policy
 - Application notes for OpenAI Codex for Open Source
+- CSV validation policy for public-safe examples
 
 ## Who This Is For
 
